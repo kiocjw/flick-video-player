@@ -20,7 +20,7 @@ dependencies:
   path_provider: ^2.0.11
   wakelock:
     git:
-      url: https://github.com/Bayan-Alramlawi/wakelock.git
+      url: https://github.com/kiocjw/wakelock.git
       ref: main
 
 dev_dependencies:
